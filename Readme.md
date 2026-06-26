@@ -106,7 +106,7 @@ Backend architecture using message queues and async processing patterns.
 
 ## 📈 GitHub Analytics
 
-![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith1894&show_icons=true&theme=tokyonight)
+![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith1894&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith1894&layout=compact&theme=tokyonight)
 
